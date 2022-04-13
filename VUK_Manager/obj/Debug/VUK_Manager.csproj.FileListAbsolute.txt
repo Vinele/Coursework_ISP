@@ -1,0 +1,133 @@
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Code\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\User\Desktop\Code\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\User\Desktop\Code\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\User\Desktop\Code\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.csprojAssemblyReference.cache
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Manager\obj\Debug\VUK_Manager.View.LicenceKeyForm.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\Пользователь\Desktop\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\Пользователь\Desktop\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.View.LicenceKeyForm.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\Пользователь\Desktop\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.View.LicenceKeyForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\VUK_Programm\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\EntityFramework.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\EntityFramework.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV2\VUK_Manager\bin\Debug\VUK_DB.db
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\VUK_DB.db
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\EntityFramework.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\EntityFramework.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Projects\VUK_Coursework\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\VUK_DB.db
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\acer_\OneDrive\Рабочий стол\Курсовая\Winforms project\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.pdb
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\VUK_DB.db
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.exe.config
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.exe
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\VUK_Manager.pdb
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.dll
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.xml
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.AssemblyReference.cache
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.Properties.Resources.resources
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.ConstEditorForm.resources
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.MainSelector.resources
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.View.ReportForm.resources
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.GenerateResource.cache
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.csproj.CopyComplete
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.exe
+C:\Users\Vinelle\Desktop\ProgrammV3\VUK_Manager\obj\Debug\VUK_Manager.pdb
